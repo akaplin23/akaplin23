@@ -1,16 +1,34 @@
-## Ava Kaplin 👋
+# 🌸 Hi, I'm Ava! 👋
 
-<!--
-**akaplin23/akaplin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a senior Computer Science student at UC Davis interested in iOS and web development.
+---
 
-Here are some ideas to get you started:
+### 💻 Technical Toolkit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🐍 **Languages:** Python • Java • C++ • Swift
+* 📱 **Mobile:** SwiftUI • Xcode • App Architecture
+* 🛠️ **Tools:** Git • GitHub • VS Code
+
+---
+
+### 📱 Featured Project
+
+**Procrastinot!** *(iOS Application)* ✨
+* Designed and built a task management and productivity app using **Swift** & **SwiftUI**
+* Features custom task tracking, persistent data storage, and shared streak functionality 🌟
+
+---
+
+### 🤝 Leadership & Mentorship
+
+🌱 **Program Assistant** | *UC Davis AvenueE & LEADR Summer Bridge*
+* Mentored incoming CS and engineering transfer students through hands-on technical projects and real-time troubleshooting
+
+---
+
+### 💌 Let's Connect!
+
+* 💼 **LinkedIn:** [linkedin.com/in/ava-kaplin](https://www.linkedin.com/in/ava-kaplin).
+
+---
+*“Enjoying the process kills self-doubt.”* 
